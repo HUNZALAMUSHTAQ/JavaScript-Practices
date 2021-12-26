@@ -1,0 +1,38 @@
+html {
+    background-image: url(https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*kJM2Q6uPXCAAAAAAAAAAAABkARQnAQ);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    text-transform: uppercase;
+  }
+  
+  td {
+    border: 1px solid #726E6D;
+    padding: 25px;
+  }
+  
+h1,h5{
+    text-align: center;
+}
+  thead{
+    font-weight:bold;
+    text-align:center;
+    background: #625D5D;
+    color:white;
+  }
+  
+  table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  
+  .footer {
+    text-align:right;
+    font-weight:bold;
+  }
+  
+  tbody >tr:nth-child(odd) {
+    background: #D1D0CE;
+  }
+  
